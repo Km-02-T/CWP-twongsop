@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 text = int(input("Please tell me your age: "))
 print(f"You are currently {text} years old.")
 print(f"In 10 years, you'll be {text + 10} years old.")
