@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 Org = [2, 8, 9, 48, 8, 22, -12, 2]
 New = []
 
