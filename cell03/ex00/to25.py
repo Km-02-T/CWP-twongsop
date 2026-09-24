@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 n = int(input("Enter a number less than 25"))
 if n < 25:
     while n <= 25:
